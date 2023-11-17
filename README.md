@@ -1,12 +1,12 @@
 
-    # Software Engineering Internships
+# Software Engineering Internships
     
     Welcome to the Software Engineering Internships repository! This repository serves as a resource for students and aspiring software engineers seeking internship opportunities in the tech industry. Our goal is to provide an up-to-date and easily accessible collection of internship positions across various companies and locations.
     
-    # About This Repository
+# About This Repository
     This repository is the result of an automated web scraping project that aims to compile information about available software engineering internships. We understand how challenging and time-consuming it can be to search for internships, and this project is here to simplify that process.
     
-    # What You'll Find Here
+# What You'll Find Here
     In this repository, you will find a curated list of software engineering internships, including details such as:
     
     Company: The name of the company offering the internship.
@@ -19,16 +19,16 @@
     
     Date Posted: The date when the internship opportunity was listed.
     
-    # How It Works
+# How It Works
     Our script runs daily to scrape and update the list of internships from various reputable sources. The gathered data is then formatted into a Markdown table in the README.md file for easy viewing.
     
-    # Contributing
+# Contributing
     We welcome contributions to this project! If you have suggestions for additional sources to scrape, improvements to the script, or any other contributions, please feel free to open an issue or submit a pull request.
     
-    # Disclaimer
+# Disclaimer
     Please note that while we strive to keep the information accurate and up-to-date, we rely on external sources. Always verify the details on the respective company's website or contact point.
     
-    # License
+# License
     This project is open source and available under <https://unlicense.org> .
     
     

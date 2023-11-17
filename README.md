@@ -1,3 +1,4 @@
+
 # Software Engineering Internships
 
 Welcome to the Software Engineering Internships repository! This repository serves as a resource for students and aspiring software engineers seeking internship opportunities in the tech industry. Our goal is to provide an up-to-date and easily accessible collection of internship positions across various companies and locations.
@@ -31,10 +32,7 @@ Please note that while we strive to keep the information accurate and up-to-date
 This project is open source and available under <https://unlicense.org> .
 
 
-
-
-
-| Company | Position | Location | Application | Date Posted |
+ | Company | Position | Location | Application | Date Posted |
 | --- | --- | --- | --- | --- |
 | T-Mobile | Software Engineering - Intern  | Bellevue, WA | <a href="https://careers.t-mobile.com/job-details/19448690/summer-2024-software-engineering-internship-bellevue-wa/?utm_source=Simplify&ref=Simplify">Link</a> | Nov 15 |
 | Oracle | UX Data Science - Intern | United States | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/217958?utm_source=Simplify&ref=Simplify">Link</a> | Nov 15 |

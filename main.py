@@ -33,7 +33,7 @@ def scrape_internships(url):
             if a_tag and a_tag.has_attr('href'):
                 url = a_tag['href']
 
-                if 'simplify.jobs/c/' in url:
+                if os.getenv('format') in url:
                     company_name = url.split('/')[-1]
                     row_data.append(company_name)
                 else:
@@ -65,15 +65,49 @@ def create_markdown_table(data):
 
     return markdown
 
+intro_text = """
+# Software Engineering Internships
 
+Welcome to the Software Engineering Internships repository! This repository serves as a resource for students and aspiring software engineers seeking internship opportunities in the tech industry. Our goal is to provide an up-to-date and easily accessible collection of internship positions across various companies and locations.
+
+# About This Repository
+This repository is the result of an automated web scraping project that aims to compile information about available software engineering internships. We understand how challenging and time-consuming it can be to search for internships, and this project is here to simplify that process.
+
+# What You'll Find Here
+In this repository, you will find a curated list of software engineering internships, including details such as:
+
+Company: The name of the company offering the internship.
+
+Role: Specific title or role of the internship position.
+
+Location: Geographical location or remote availability.
+
+Application: Direct links to the application or job posting.
+
+Date Posted: The date when the internship opportunity was listed.
+
+# How It Works
+Our script runs daily to scrape and update the list of internships from various reputable sources. The gathered data is then formatted into a Markdown table in the README.md file for easy viewing.
+
+# Contributing
+We welcome contributions to this project! If you have suggestions for additional sources to scrape, improvements to the script, or any other contributions, please feel free to open an issue or submit a pull request.
+
+# Disclaimer
+Please note that while we strive to keep the information accurate and up-to-date, we rely on external sources. Always verify the details on the respective company's website or contact point.
+
+# License
+This project is open source and available under <https://unlicense.org> .
+
+"""
 URL = os.getenv('SCRAPER_URL')
 scraped_data = scrape_internships(URL)
 
 markdown_table = create_markdown_table(scraped_data)
+complete_readme = intro_text + "\n "+ markdown_table
 
 
 with open('Software_Engineering_Internships/README.md', 'w', encoding='utf-8') as file:
-    file.write(markdown_table)
+    file.write(complete_readme)
 
 subprocess.run(["git", "add", "README.md"])
 subprocess.run(["git", "commit", "-m", "Updated dataset"])

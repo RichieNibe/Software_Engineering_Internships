@@ -49,10 +49,22 @@ def scrape_internships(url):
 
 
 def create_markdown_table(data):
-    markdown = "| " + " | ".join(data[0]) + " |\n"  # headers
-    markdown += "| " + " | ".join(["---"] * len(data[0])) + " |\n"  # separator
-    for row in data[1:]:
+    if not data or not data[0]:
+        return "No data available."
+
+        # Headers for the table
+    headers = ["Company", "Position", "Location", "Link", "Date Posted"]
+    markdown = "| " + " | ".join(headers) + " |\n"  # Add headers
+    markdown += "| " + " | ".join(["---"] * len(headers)) + " |\n"  # Separator
+
+    for row in data:
+        # Replace the URL in the 'Link' column with a Markdown hyperlink
+        # Assuming the URL is the fourth element in each row
+        if row[3].startswith('http'):
+            row[3] = f"[Link]({row[3]})"
+
         markdown += "| " + " | ".join(row) + " |\n"
+
     return markdown
 
 

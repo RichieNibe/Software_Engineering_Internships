@@ -91,7 +91,7 @@ Application: Direct links to the application or job posting.
 Date Posted: The date when the internship opportunity was listed.
     
 # How It Works
-Our script runs daily to scrape and update the list of internships from various reputable sources. The gathered data is then formatted into a Markdown table in the README.md file for easy viewing.
+Our script runs daily to scrape and update the list of internships from a reputable source. The gathered data is then formatted into a Markdown table in the README.md file for easy viewing.
     
 # Contributing
 We welcome contributions to this project! If you have suggestions for additional sources to scrape, improvements to the script, or any other contributions, please feel free to open an issue or submit a pull request.

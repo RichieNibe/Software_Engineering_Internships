@@ -53,17 +53,13 @@ def create_markdown_table(data):
         return "No data available."
 
 
-    headers = ["Company", "Position", "Location", "Link", "Date Posted"]
-    markdown = "| " + " | ".join(headers) + " |\n"  # Add headers
-    markdown += "| " + " | ".join(["---"] * len(headers)) + " |\n"  # Separator
+    headers = ["Company", "Position", "Location", "Application", "Date Posted"]
+    markdown = "| " + " | ".join(headers) + " |\n"
+    markdown += "| " + " | ".join(["---"] * len(headers)) + " |\n"
 
     for row in data:
 
-        row = [
-            f"{cell:5}"
-            if i != 3 else f"[Link]({cell})"
-            for i, cell in enumerate(row)
-        ]
+        row[3] = f'<a href="{row[3]}">Link</a>' if row[3].startswith('http') else row[3]
 
         markdown += "| " + " | ".join(row) + " |\n"
 

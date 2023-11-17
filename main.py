@@ -1,17 +1,17 @@
-import requests
-import re
-from bs4 import BeautifulSoup
 import os
+import re
 import subprocess
+
+import requests
+from bs4 import BeautifulSoup
 
 
 def remove_emojis(text):
-
     emoji_pattern = re.compile("["
-                               u"\U0001F600-\U0001F64F"  
-                               u"\U0001F300-\U0001F5FF"  
-                               u"\U0001F680-\U0001F6FF"  
-                               u"\U0001F1E0-\U0001F1FF"  
+                               u"\U0001F600-\U0001F64F"
+                               u"\U0001F300-\U0001F5FF"
+                               u"\U0001F680-\U0001F6FF"
+                               u"\U0001F1E0-\U0001F1FF"
                                u"\U00002702-\U000027B0"
                                u"\U000024C2-\U0001F251"
                                "]+", flags=re.UNICODE)
@@ -52,7 +52,6 @@ def create_markdown_table(data):
     if not data or not data[0]:
         return "No data available."
 
-
     headers = ["Company", "Role", "Location", "Links", "Date Posted"]
     markdown = "| " + " | ".join(headers) + " |\n"
     markdown += "| " + " | ".join(["---"] * len(headers)) + " |\n"
@@ -68,8 +67,8 @@ def create_markdown_table(data):
 
     return markdown
 
-if __name__ =="__main__":
 
+if __name__ == "__main__":
     intro_text = """
 # Software Engineering Internships
     
@@ -108,8 +107,7 @@ This project is open source and available under <https://unlicense.org> .
     scraped_data = scrape_internships(URL)
 
     markdown_table = create_markdown_table(scraped_data)
-    complete_readme = intro_text + "\n "+ markdown_table
-
+    complete_readme = intro_text + "\n " + markdown_table
 
     with open('Software_Engineering_Internships/README.md', 'w', encoding='utf-8') as file:
         file.write(complete_readme)

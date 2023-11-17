@@ -62,7 +62,7 @@ scraped_data = scrape_internships(URL)
 markdown_table = create_markdown_table(scraped_data)
 
 
-with open('../Software-Engineering-Internships/README.md', 'w') as file:
+with open('Software_Engineering_Internships/README.md', 'w', encoding='utf-8') as file:
     file.write(markdown_table)
 
 subprocess.run(["git", "add", "README.md"])

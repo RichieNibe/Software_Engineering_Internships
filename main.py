@@ -53,11 +53,14 @@ def create_markdown_table(data):
         return "No data available."
 
 
-    headers = ["Company", "Position", "Location", "Application", "Date Posted"]
+    headers = ["Company", "Role", "Location", "Links", "Date Posted"]
     markdown = "| " + " | ".join(headers) + " |\n"
     markdown += "| " + " | ".join(["---"] * len(headers)) + " |\n"
 
     for row in data:
+        row = [cell.replace('\n', '<br>') for cell in row]
+
+        row[2] = row[2].replace(',', '<br>')
 
         row[3] = f'<a href="{row[3]}">Link</a>' if row[3].startswith('http') else row[3]
 

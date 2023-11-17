@@ -50,22 +50,25 @@ def scrape_internships(url):
 
 def create_markdown_table(data):
     if not data or not data[0]:
-        return "No data available."
+        return "<p>No data available.</p>"
 
-        # Headers for the table
+        # Start the HTML table
+    html_table = "<table>\n"
+
+    # Add headers
     headers = ["Company", "Position", "Location", "Link", "Date Posted"]
-    markdown = "| " + " | ".join(headers) + " |\n"  # Add headers
-    markdown += "| " + " | ".join(["---"] * len(headers)) + " |\n"  # Separator
+    html_table += "  <tr>" + "".join([f"<th>{header}</th>" for header in headers]) + "</tr>\n"
 
+    # Add rows
     for row in data:
-        # Replace the URL in the 'Link' column with a Markdown hyperlink
-        # Assuming the URL is the fourth element in each row
-        if row[3].startswith('http'):
-            row[3] = f"[Link]({row[3]})"
+        # Format the URL as an HTML hyperlink
+        row[3] = f'<a href="{row[3]}">Link</a>' if row[3].startswith('http') else row[3]
+        html_table += "  <tr>" + "".join([f"<td>{cell}</td>" for cell in row]) + "</tr>\n"
 
-        markdown += "| " + " | ".join(row) + " |\n"
+    # Close the table
+    html_table += "</table>"
 
-    return markdown
+    return html_table
 
 
 URL = os.getenv('SCRAPER_URL')

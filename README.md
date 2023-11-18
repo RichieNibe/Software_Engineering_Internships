@@ -34,6 +34,8 @@ This project is open source and available under <https://unlicense.org> .
     
  | Company | Role | Location | Links | Date Posted |
 | --- | --- | --- | --- | --- |
+| Stevens Capital Management | Quantitative Research Analyst Internship  | Villanova<br> PA | <a href="https://boards.greenhouse.io/scm/jobs/721895?utm_source=Simplify&ref=Simplify">Link</a> | Nov 17 |
+| Audubon | Software Development Intern | Denver<br> CO | <a href="https://recruiting.adp.com/srccar/public/RTI.home?d=AudubonCareers&_icx=v02xIB76Se6kk3bg5xvWg8zbMB8i__FyeUsmx6T4lQel3xGIMvaVWJFJubjRnXxNh22&c=1129507&_dissimuloSSO=UALcyCd0Z2Y:Av7vl08geZWWvvCqIl2neNEnLXM#/&utm_source=Simplify&ref=Simplify">Link</a> | Nov 17 |
 | T-Mobile | Software Engineering - Intern  | Bellevue<br> WA | <a href="https://careers.t-mobile.com/job-details/19448690/summer-2024-software-engineering-internship-bellevue-wa/?utm_source=Simplify&ref=Simplify">Link</a> | Nov 15 |
 | Oracle | UX Data Science - Intern | United States | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/217958?utm_source=Simplify&ref=Simplify">Link</a> | Nov 15 |
 | ↳ | UX Developer -  Intern | United States | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/217959?utm_source=Simplify&ref=Simplify">Link</a> | Nov 15 |

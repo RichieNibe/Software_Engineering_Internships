@@ -18,6 +18,28 @@ def remove_emojis(text):
     return emoji_pattern.sub(r'', text)
 
 
+def split_location(location, max_length=20):
+    if len(location) <= max_length:
+        return location
+
+    # Split the location into words
+    words = location.split()
+    split_location = ''
+    current_length = 0
+
+    for word in words:
+        if current_length + len(word) > max_length:
+            split_location += '<br>'  # Insert a line break
+            current_length = 0
+        elif current_length > 0:
+            split_location += ' '
+            current_length += 1
+
+        split_location += word
+        current_length += len(word)
+
+    return split_location
+
 def scrape_internships(url):
     page = requests.get(url)
     soup = BeautifulSoup(page.content, 'html.parser')
@@ -41,8 +63,11 @@ def scrape_internships(url):
             else:
                 cell_text = remove_emojis(cell.get_text(strip=True))
                 row_data.append(cell_text)
+        if len(row_data) > 2:
+            row_data[2] = split_location(row_data[2])
 
-        if row_data:
+        link = row_data[3] if len(row_data) > 3 else ""
+        if link and link.startswith("http"):
             internships.append(row_data)
 
     return internships

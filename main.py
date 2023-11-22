@@ -134,7 +134,7 @@ This project is open source and available under <https://unlicense.org> .
     markdown_table = create_markdown_table(scraped_data)
     complete_readme = intro_text + "\n " + markdown_table
 
-    with open('Software_Engineering_Internships/README.md', 'w', encoding='utf-8') as file:
+    with open('README.md', 'w', encoding='utf-8') as file:
         file.write(complete_readme)
 
     subprocess.run(["git", "add", "README.md"])

@@ -22,14 +22,14 @@ def split_location(location, max_length=20):
     if len(location) <= max_length:
         return location
 
-    # Split the location into words
+
     words = location.split()
     split_location = ''
     current_length = 0
 
     for word in words:
         if current_length + len(word) > max_length:
-            split_location += '<br>'  # Insert a line break
+            split_location += '<br>'
             current_length = 0
         elif current_length > 0:
             split_location += ' '
@@ -55,7 +55,7 @@ def scrape_internships(url):
             if a_tag and a_tag.has_attr('href'):
                 url = a_tag['href']
 
-                if os.getenv('format') in url:
+                if os.getenv('Format') in url:
                     company_name = url.split('/')[-1]
                     row_data.append(company_name)
                 else:

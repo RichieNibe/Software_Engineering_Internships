@@ -34,6 +34,14 @@ This project is open source and available under <https://unlicense.org> .
     
  | Company | Role | Location | Links | Date Posted |
 | --- | --- | --- | --- | --- |
+| Tradeweb | C++ Developer - Intern | Jersey City<br> NJ | <a href="https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/300723?utm_source=Simplify&ref=Simplify">Link</a> | Nov 25 |
+| Ribbit | Software Engineering Intern - Robotics | Toronto<br> Canada | <a href="https://flyribbit.applytojobs.ca/engineering/26524?utm_source=Simplify&ref=Simplify">Link</a> | Nov 25 |
+| LMI | AI Engineer Intern | Tysons<br> VA | <a href="https://careers-lmi.icims.com/jobs/10637/ai-engineer-intern-%28summer-2024%29/job?utm_source=Simplify&ref=Simplify">Link</a> | Nov 25 |
+| ↳ | Space Systems Software Development Intern | Colorado Springs<br> CO | <a href="https://careers-lmi.icims.com/jobs/10371/space-systems-software-development-intern-%28summer-2024%29/job?utm_source=Simplify&ref=Simplify">Link</a> | Nov 25 |
+| IBM | Machine Learning Developer Intern | Toronto<br><br>CanadaCalgary<br><br>CanadaMontreal<br><br>Canada | <a href="https://careers.ibm.com/job/19493685/machine-learning-developer-intern-may-4-months-ibm-consulting-remote/?utm_source=Simplify&ref=Simplify">Link</a> | Nov 25 |
+| Centene | Application Developer Intern | MissouriRemote | <a href="https://jobs.centene.com/us/en/jobs/1474988/application-developer-intern-undergraduate-summer-2024/?utm_source=Simplify&ref=Simplify">Link</a> | Nov 25 |
+| AMERGINT Technologies | Software Engineer - Intern | Colorado Springs<br> CO | <a href="https://recruiting.ultipro.com/DAN1006DMT/JobBoard/712b6c28-b7c4-4966-8dcc-eb3e181cbdef/OpportunityDetail?opportunityId=19f1c6f7-2a52-4f42-9b9f-a4eb887ddf9d&utm_source=Simplify&ref=Simplify">Link</a> | Nov 25 |
+| Squarespace | Software Engineer Intern | New York | <a href="https://www.squarespace.com/careers/jobs/5369485?utm_source=Simplify&ref=Simplify">Link</a> | Nov 23 |
 | Wayfair | Software Engineering Intern - Summer 2024 | Austin<br> TX | <a href="https://www.wayfair.com/careers/job/software-engineering-intern---summer-2024/7032310002/?utm_source=Simplify&ref=Simplify">Link</a> | Nov 22 |
 | The Hartford | Investment Summer Intern (Product / Data Analytics) | Wayne<br> PA Hybrid | <a href="https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Wayne-PA/Investment-Summer-Intern--Product---Data-Analytics-_R2314956?utm_source=Simplify&ref=Simplify">Link</a> | Nov 22 |
 | Thales Defense & Security, Inc. | 2024 Software Engineering Summer Intern - IL | AuroraILUS | <a href="https://jobs-thalesdsi.icims.com/jobs/3432/2024-software-engineering-summer-intern---il/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1170&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300&utm_source=Simplify&ref=Simplify">Link</a> | Nov 22 |

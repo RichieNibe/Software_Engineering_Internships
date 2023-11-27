@@ -55,7 +55,7 @@ def scrape_internships(url):
             if a_tag and a_tag.has_attr('href'):
                 url = a_tag['href']
 
-                if os.getenv('Format') in url:
+                if "simplify.jobs/c/" in url:
                     company_name = url.split('/')[-1]
                     row_data.append(company_name)
                 else:
@@ -103,7 +103,7 @@ Welcome to the Software Engineering Internships repository! This repository serv
 This repository is the result of an automated web scraping project that aims to compile information about available software engineering internships. We understand how challenging and time-consuming it can be to search for internships, and this project is here to simplify that process.
     
 # What You'll Find Here
-In this repository, you will find a curated list of software engineering internships, including details such as:
+In this repository, you will find a detailed list of software engineering internships, including details such as:
     
 Company: The name of the company offering the internship.
     
@@ -128,7 +128,7 @@ Please note that while we strive to keep the information accurate and up-to-date
 This project is open source and available under <https://unlicense.org> .
     
     """
-    URL = os.getenv('SCRAPER_URL')
+    URL = "https://github.com/SimplifyJobs/Summer2024-Internships"
     scraped_data = scrape_internships(URL)
 
     markdown_table = create_markdown_table(scraped_data)

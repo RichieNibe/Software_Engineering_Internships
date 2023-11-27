@@ -708,9 +708,7 @@ This project is open source and available under <https://unlicense.org> .
 | FetchRewards | iOS Apprenticeship - Mobile Engineer | Birmingham<br> AL | <a href="https://boards.greenhouse.io/fetchrewards/jobs/5210272003?utm_source=Simplify&ref=Simplify">Link</a> | Jul 18 |
 | ↳ | Android Apprenticeship - Mobile Engineer | Madison<br> WI | <a href="https://boards.greenhouse.io/fetchrewards/jobs/4386323003?utm_source=Simplify&ref=Simplify">Link</a> | Jul 18 |
 | Epic | Software Developer Intern   | Madison<br> WI | <a href="https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2024/23429?utm_source=Simplify&ref=Simplify">Link</a> | Jul 18 |
-| DRW | Software Developer Intern | Austin<br> TXChicago<br> IL | <a href="https://boards.greenhouse.io/drweng/jobs/5114577?utm_source=Simplify&ref=Simplify">Link</a> | Jul 18 |
-| ↳ | Quantitative Trading Analyst Intern | Chicago<br> IL | <a href="https://boards.greenhouse.io/drweng/jobs/5065397?utm_source=Simplify&ref=Simplify">Link</a> | Jul 18 |
-| Alpha-Grep | Quantitative Trading Intern | Chicago<br> IL | <a href="https://boards.greenhouse.io/alphagrepsecurities/jobs/6340385002?utm_source=Simplify&ref=Simplify">Link</a> | Jul 18 |
+| DRW | Quantitative Trading Analyst Intern | Chicago<br> IL | <a href="https://boards.greenhouse.io/drweng/jobs/5065397?utm_source=Simplify&ref=Simplify">Link</a> | Jul 18 |
 | Akuna-Capital | Software Engineer Intern - C++ | Chicago<br> IL | <a href="https://www.akunacapital.com/job-details?gh_jid=5138367&utm_source=Simplify&ref=Simplify">Link</a> | Jul 18 |
 | WebFX | Business Data Analyst Internship | Harrisburg<br> PA | <a href="https://jobs.lever.co/webfx/cf2e63c1-94ba-4478-b1cd-acc54cadfc75/apply?utm_source=Simplify&ref=Simplify">Link</a> | Jul 2023 |
 | Uncountable | Full-Stack Intern | SFNYC | <a href="https://jobs.lever.co/uncountable/6328427a-9047-44d5-82d6-56d533d8622e/apply?utm_source=Simplify&ref=Simplify">Link</a> | Jul 2023 |

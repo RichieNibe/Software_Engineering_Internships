@@ -55,7 +55,7 @@ def scrape_internships(url):
             if a_tag and a_tag.has_attr('href'):
                 url = a_tag['href']
 
-                if "simplify.jobs/c/" in url:
+                if os.getenv('Format') in url:
                     company_name = url.split('/')[-1]
                     row_data.append(company_name)
                 else:
@@ -128,7 +128,7 @@ Please note that while we strive to keep the information accurate and up-to-date
 This project is open source and available under <https://unlicense.org> .
     
     """
-    URL = "https://github.com/SimplifyJobs/Summer2024-Internships"
+    URL = os.getenv('SCRAPER_URL')
     scraped_data = scrape_internships(URL)
 
     markdown_table = create_markdown_table(scraped_data)

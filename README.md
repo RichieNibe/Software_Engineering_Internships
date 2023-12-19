@@ -34,9 +34,18 @@ This project is open source and available under <https://unlicense.org> .
     
  | Company | Role | Location | Links | Date Posted |
 | --- | --- | --- | --- | --- |
+| NTConcepts | Summer 2024 STEM Internship | Vienna<br> VA | <a href="https://boards.greenhouse.io/ntconcepts/jobs/5042342004?utm_source=Simplify&ref=Simplify">Link</a> | Dec 19 |
+| Watershed | Software engineer – Intern | SF | <a href="https://boards.greenhouse.io/watershedclimate/jobs/4096445004?utm_source=Simplify&ref=Simplify">Link</a> | Dec 18 |
+| Talos | Data Engineer Intern | London<br> UK | <a href="https://boards.greenhouse.io/talos/jobs/5040783004?utm_source=Simplify&ref=Simplify">Link</a> | Dec 18 |
+| ↳ | Software Engineer Intern - Front-end | London<br> UK | <a href="https://boards.greenhouse.io/talos/jobs/5040905004?utm_source=Simplify&ref=Simplify">Link</a> | Dec 18 |
+| ↳ | Software Engineer Intern - Backend | NYC | <a href="https://boards.greenhouse.io/talos/jobs/5039742004?utm_source=Simplify&ref=Simplify">Link</a> | Dec 18 |
 | symbotic | Intern-Embedded Software Engineer | Burlington<br> MA | <a href="https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Embedded-Software-Engineer_R2805?utm_source=Simplify&ref=Simplify">Link</a> | Dec 18 |
+| 1dd14f6f-3a3c-4b64-b1c2-99e97cc05db6 | Intern – Software Engineering | Chicago<br> IL | <a href="https://boards.greenhouse.io/stratacareers/jobs/5836698003?utm_source=Simplify&ref=Simplify">Link</a> | Dec 18 |
+| ↳ | Software Engineer Intern | Chicago<br> IL | <a href="https://boards.greenhouse.io/stratacareers/jobs/5836698003?gh_src=f295a9a93us&utm_source=Simplify&ref=Simplify">Link</a> | Dec 18 |
 | MachinaLabs | General Inquiry – Internship | LA | <a href="https://jobs.lever.co/MachinaLabs/20bdd475-0564-48f2-bd61-e0d8f5c5b6ed/apply?utm_source=Simplify&ref=Simplify">Link</a> | Dec 18 |
-| Intel | Machine Learning Frameworks Intern - f/m/d | United Kingdom | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/Germany-Munich/Machine-Learning-Frameworks-Intern---f-m-d--_JR0253893-1?utm_source=Simplify&ref=Simplify">Link</a> | Dec 18 |
+| Lucid-Motors | Intern – Software Developer - Supply Chain - Summer 2024 | Newark<br> CA | <a href="https://jobs.lever.co/lucidmotors/450dd2ef-0f17-4e27-9ee3-5777f1b539bc/apply?utm_source=Simplify&ref=Simplify">Link</a> | Dec 18 |
+| Intel | Undergraduate Intern Technical | Hillsboro<br> OR | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Undergraduate-Intern-Technical_JR0254527?utm_source=Simplify&ref=Simplify">Link</a> | Dec 18 |
+| ↳ | Machine Learning Frameworks Intern - f/m/d | United Kingdom | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/Germany-Munich/Machine-Learning-Frameworks-Intern---f-m-d--_JR0253893-1?utm_source=Simplify&ref=Simplify">Link</a> | Dec 18 |
 | ↳ | Software Security Intern | Remote in USA | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Software-Security-Intern_JR0254189-1?utm_source=Simplify&ref=Simplify">Link</a> | Dec 18 |
 | ↳ | Software Validation Engineer Intern | Hillsboro<br> OR | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Validation-Engineer-Intern_JR0253626?utm_source=Simplify&ref=Simplify">Link</a> | Dec 18 |
 | ↳ | Full Stack Software Intern | Remote in USA | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Full-Stack-Software-Intern_JR0254460?utm_source=Simplify&ref=Simplify">Link</a> | Dec 18 |
@@ -48,6 +57,8 @@ This project is open source and available under <https://unlicense.org> .
 | ↳ | Data Engineering Intern | Tempe<br> AZ | <a href="https://gen.wd1.myworkdayjobs.com/careers/job/USA---Arizona-Tempe/Data-Engineering-Intern_52803-1?utm_source=Simplify&ref=Simplify">Link</a> | Dec 18 |
 | ↳ | Software Engineer Intern | Mountain View<br> CA | <a href="https://gen.wd1.myworkdayjobs.com/careers/job/USA---California-Mountain-View/Software-Engineer-Intern_52812-2?utm_source=Simplify&ref=Simplify">Link</a> | Dec 18 |
 | Cadence-Design-Systems | Software Engineering Intern | Northridge<br> LA | <a href="https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BURLINGTON-01/Software-Engineering-Intern_R44856-2?utm_source=Simplify&ref=Simplify">Link</a> | Dec 18 |
+| Aurora-University | Aurora Intern Referral | Remote | <a href="https://boards.greenhouse.io/auroraur/jobs/5408169002?utm_source=Simplify&ref=Simplify">Link</a> | Dec 18 |
+| Anduril | Firmware Engineer Intern-Summer 2024 | Newport Beach<br> CA | <a href="https://boards.greenhouse.io/andurilindustries/jobs/4163553007?utm_source=Simplify&ref=Simplify">Link</a> | Dec 18 |
 | Hugging-Face | Machine Learning Engineer Internship - Tokenizers & Maintenance - US Remote | Remote in USAUnited<br>States | <a href="https://apply.workable.com/huggingface/j/DB77EC837E/apply?utm_source=Simplify&ref=Simplify">Link</a> | Dec 17 |
 | Hugging-Face | Machine Learning Engineer Internship - Generation - Remote | Remote | <a href="https://apply.workable.com/huggingface/j/9F9D9316F0/apply?utm_source=Simplify&ref=Simplify">Link</a> | Dec 16 |
 | Mercedes-Benz | OBD Certification & Compliance Intern | Southfield<br> MI | <a href="https://jobs.lever.co/MBRDNA/b03d87fb-cc99-4717-993c-ef08a6c5a0a8/apply?utm_source=Simplify&ref=Simplify">Link</a> | Dec 15 |
@@ -480,7 +491,8 @@ This project is open source and available under <https://unlicense.org> .
 | ↳ | Fleet Operations Software – Backend Engineering Intern | San Mateo<br> CA | <a href="https://jobs.lever.co/zoox/ea629719-9d30-41e6-a30e-edadd40999a9/apply?utm_source=Simplify&ref=Simplify">Link</a> | Sep 29 |
 | Skydio | Autonomy Engineer Intern | San Mateo<br> CA | <a href="https://boards.greenhouse.io/skydio/jobs/4219855003?utm_source=Simplify&ref=Simplify">Link</a> | Sep 29 |
 | IBM | Back End Developer | 5<br>locationsArmonkLowellNew<br>YorkDurhamAustin | <a href="https://careers.ibm.com/job/19124488/2024-summer-intern-back-end-developer-remote/?codes=WEB_SEARCH_NA&utm_source=Simplify&ref=Simplify">Link</a> | Sep 29 |
-| elevance-health | Engineer Intern-Undergraduate-Summer 2024 | Norfolk<br> VA | <a href="https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/VA-NORFOLK-5800-NORTHAMPTON-BLVD/Engineer-Intern--Undergraduate--Summer-2024_JR89587?utm_source=Simplify&ref=Simplify">Link</a> | Sep 29 |
+| elevance-health | Engineer Intern-Undergraduate-Summer 2024 | Atlanta<br> GA | <a href="https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineer-Intern--Undergraduate--Summer-2024_JR89598-1?utm_source=Simplify&ref=Simplify">Link</a> | Sep 29 |
+| ↳ | Engineer Intern-Undergraduate-Summer 2024 | Norfolk<br> VA | <a href="https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/VA-NORFOLK-5800-NORTHAMPTON-BLVD/Engineer-Intern--Undergraduate--Summer-2024_JR89587?utm_source=Simplify&ref=Simplify">Link</a> | Sep 29 |
 | Bridgewater-Associates | Investment Engineer Intern - Summer 2024 | Westport<br> CT | <a href="https://boards.greenhouse.io/bridgewatercampusrecruiting/jobs/6716062002?utm_source=Simplify&ref=Simplify">Link</a> | Sep 29 |
 | Zoox | Data Science Intern | San Mateo<br> CA | <a href="https://jobs.lever.co/zoox/9309308c-4af1-4696-a24b-c699d2c316b5/apply?utm_source=Simplify&ref=Simplify">Link</a> | Sep 28 |
 | Rackner | Computer Science Internship | Hyattsville<br> MD | <a href="https://boards.greenhouse.io/rackner/jobs/4323518005?utm_source=Simplify&ref=Simplify">Link</a> | Sep 28 |
